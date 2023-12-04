@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Atividade_fila\obj\Debug\net8.0\Atividade_fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Atividade_fila\obj\Debug\net8.0\Atividade_fila.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Atividade_fila\obj\Debug\net8.0\Atividade_fila.AssemblyInfo.cs
+C:\Users\user\Desktop\Atividade_fila\obj\Debug\net8.0\Atividade_fila.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Atividade_fila\bin\Debug\net8.0\Atividade_fila.exe
+C:\Users\user\Desktop\Atividade_fila\bin\Debug\net8.0\Atividade_fila.deps.json
+C:\Users\user\Desktop\Atividade_fila\bin\Debug\net8.0\Atividade_fila.runtimeconfig.json
+C:\Users\user\Desktop\Atividade_fila\bin\Debug\net8.0\Atividade_fila.dll
+C:\Users\user\Desktop\Atividade_fila\bin\Debug\net8.0\Atividade_fila.pdb
+C:\Users\user\Desktop\Atividade_fila\obj\Debug\net8.0\Atividade_fila.dll
+C:\Users\user\Desktop\Atividade_fila\obj\Debug\net8.0\refint\Atividade_fila.dll
+C:\Users\user\Desktop\Atividade_fila\obj\Debug\net8.0\Atividade_fila.pdb
+C:\Users\user\Desktop\Atividade_fila\obj\Debug\net8.0\Atividade_fila.genruntimeconfig.cache
+C:\Users\user\Desktop\Atividade_fila\obj\Debug\net8.0\ref\Atividade_fila.dll
